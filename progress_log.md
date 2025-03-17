@@ -15,6 +15,7 @@ Each row contains the **day number, topic, problem name, platform, solution link
 | 1    | Arrays    | [Remove Element](https://leetcode.com/problems/remove-element/) | LeetCode   | [Solution](./Arrays/Remove-Element.java)         | 🟢 Easy    |
 | 1    | Arrays    | [Majority Element](https://leetcode.com/problems/majority-element/) | LeetCode   | [Solution](./Arrays/Majority-Element.java)       | 🟡 Medium  |
 | 1    | Arrays    | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode   | [Solution 1](./Arrays/Merge-Sorted-Array-1.java) / [Solution 2](./Arrays/Merge-Sorted-Array-2.java) | 🟢 Easy    |
+| 2   | Strings    | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode   | [Solution](./Strings/Length-Of-Last-Word.java)      | 🟢 Easy    |
 
 ---
 
