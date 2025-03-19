@@ -18,6 +18,7 @@ Each row contains the **day number, topic, problem name, platform, solution link
 | 2   | Strings    | [ Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | LeetCode   | [Solution](./Strings/Length-Of-Last-Word.java)      | 🟢 Easy    |
 | 3   | Strings    | [isSubsequence](https://leetcode.com/problems/is-subsequence/) | LeetCode   | [Solution](./Strings/Is-Subsequence.java)         | 🟢 Easy    |
 | 3   | Sorting    | [Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode   | [Solution](./Sorting/Binary-Search.java)         | 🟢 Easy    |
+| 4   | Sorting    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode   | [Solution](./Math/Reverse-Integer.java)         | 🟡 Medium    |
 
 
 ---
