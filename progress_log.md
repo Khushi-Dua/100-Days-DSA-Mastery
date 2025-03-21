@@ -19,9 +19,9 @@ Each row contains the **day number, topic, problem name, platform, solution link
 | 3   | Strings    | [isSubsequence](https://leetcode.com/problems/is-subsequence/) | LeetCode   | [Solution](./Strings/Is-Subsequence.java)         | 🟢 Easy    |
 | 3   | Sorting    | [Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode   | [Solution](./Sorting/Binary-Search.java)         | 🟢 Easy    |
 | 4   | Math    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode   | [Solution](./Math/Reverse-Integer.java)         | 🟡 Medium    |
-| 4   | Strings    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode   | [Solution](./String/Valid-Palindrome.java)         | 🟢 Easy  |
-| 5   | Strings    | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | LeetCode   | [Solution](./String/Number-of-Matching-Subsequences.java)         |  🟡 Medium   |
-| 5   | Strings    | [Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | LeetCode   | [Solution](./String/Valid-Palindrome.java)         | 🟢 Easy   |
+| 4   | Strings    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode   | [Solution](./Strings/Valid-Palindrome.java)         | 🟢 Easy  |
+| 5   | Strings    | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | LeetCode   | [Solution](./Strings/Number-of-Matching-Subsequences.java)         |  🟡 Medium   |
+| 5   | Strings    | [Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/) | LeetCode   | [Solution](./Strings/Valid-Palindrome.java)         | 🟢 Easy   |
 | 6    | Arrays    | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode   | [Solution](./Arrays/Two-Sum-II-Input-Array-Is-Sorted.java)         | 🟡 Medium  |
 | 6    | Arrays    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode   | [Solution](./Arrays/Median-of-Two-Sorted-Arrays.java)         | 🔴 Hard |
 | 6    | Arrays    | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode   | [Solution](./Arrays/Search-Insert-Position.java)         | 🟢 Easy  |
