@@ -25,7 +25,11 @@ Each row contains the **day number, topic, problem name, platform, solution link
 | 6    | Arrays    | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode   | [Solution](./Arrays/Two-Sum-II-Input-Array-Is-Sorted.java)         | 🟡 Medium  |
 | 6    | Arrays    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode   | [Solution](./Arrays/Median-of-Two-Sorted-Arrays.java)         | 🔴 Hard |
 | 6    | Arrays    | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | LeetCode   | [Solution](./Arrays/Search-Insert-Position.java)         | 🟢 Easy  |
-
+| 7   | Arrays    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | LeetCode   | [Solution](./Arrays/Find-Smallest-Letter-Greater-Than-Target.java)         | 🟢 Easy  |
+| 7    | Arrays    | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode   | [Solution](./Arrays/Find-First-And-Last-Position-Of-Element-In-Sorted-Array.java)         | 🟢 Easy  |
+| 8   | Arrays    | [Find position of an element in a sorted array of infinite numbers
+](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/) | GeeksForGeeks   | [Solution](./Arrays/Find-Position-Of-An-Element-In-A-Sorted-Array=Of-Infinite-Numbers
+.java)         | 🟡 Medium |
 ---
 
 ## 📌 Legend  
